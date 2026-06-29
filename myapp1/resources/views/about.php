@@ -4,12 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>เกี่ยวกับเรา</title>
+    <meta name="description" content="ข้อมูลเกี่ยวกับเรา">
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <h2>เกี่ยวกับเรา</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae consectetur harum aut obcaecati aspernatur, 
-        fugiat debitis amet, aliquam nisi soluta facilis quidem esse, ipsam saepe perspiciatis ea maxime rerum. Similique.</p>
-
-     <a href="/">Back</a>
+    <main class="container fade-in-up">
+        <h2 class="fade-in-up delay-1">เกี่ยวกับเรา</h2>
+        <p class="fade-in-up delay-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae consectetur harum aut obcaecati aspernatur, 
+            fugiat debitis amet, aliquam nisi soluta facilis quidem esse, ipsam saepe perspiciatis ea maxime rerum. Similique.</p>
+        <div class="btn-group fade-in-up delay-3">
+             <a href="/" class="btn btn-outline">Back to Home</a>
+        </div>
+    </main>
 </body>
 </html>
