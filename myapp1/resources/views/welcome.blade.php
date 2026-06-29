@@ -14,6 +14,7 @@
         Similique.</p>
     <a href="/about">About</a>
     <a href="/blog">Blog</a>
+    <a href="/student/{id}">student</a>
 
 </body>
 
